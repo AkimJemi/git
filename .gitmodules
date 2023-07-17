@@ -6,4 +6,4 @@
 	url = https://github.com/AkimJemi/laptop_repository.git
 [submodule "git_practice"]
 	path = git_practice
-	url = https://github.com/AkimJemi/git_practicegit
+	url = https://github.com/AkimJemi/git_practice.git
