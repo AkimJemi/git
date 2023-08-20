@@ -1,0 +1,11 @@
+function intel(){
+	return true;
+}
+
+
+ifdef intel
+	echo "ifdel"
+elseif
+	echo "elseif"
+endif
+	echo "endif"
