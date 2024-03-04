@@ -1,0 +1,203 @@
+     1  あるいは (aruiwa): or, possibly
+     2  ばかり (bakari) – 2: about, approximately
+     3  ばかりだ (bakari da): continue to
+     4  ばかりに (bakari ni): because, on account of
+     5  ぶりに (buri ni): for the first time in
+     6  ちっとも～ない (chitto mo~nai): not at all, not in the least
+     7  だけあって (dake atte): …being the case, precisely because
+     8  だけでなく (dake de naku): not only… but also
+     9  だけましだ (dake mashi da): one should feel grateful for
+    10  だけに (dake ni): …being the case, precisely because
+    11  だけのことはある (dake no koto wa aru): no wonder, it’s not surprising that
+    12  だけは (dake wa): to do all that one can
+    13  だって (datte): because, but
+    14  (で)すら (de sura): even
+    15  ではないか (dewa nai ka): let’s do something, why don’t we
+    16  でしかない (de shika nai): merely, nothing but, no more than
+    17  どころではない (dokoro dewa nai): this is not the time for…
+    18  どうせ (douse): anyway, anyhow
+    19  どうやら (dou yara): it seems like, it appears that
+    20  える / うる (eru/uru): can, is possible
+    21  えない (enai): unable to, cannot
+    22  ふたたび (futatabi): again, once more
+    23  ふうに (fuu ni): in a way (this way/that way/what way)
+    24  げ (ge): [giving the appearance of]
+    25  ごとに (goto ni): each, every, at intervals of
+    26  逆に (gyaku ni): on the contrary
+    27  いよいよ (iyoiyo): at last, finally
+    28  反面 (hanmen): on the other hand
+    29  果たして (hatashite): sure enough, really
+    30  以上 (ijou): because, now that
+    31  JLPT N2 Kanji Lesson #1: 禁 (kin)
+    32  Download the video lesson and transcript
+    33  以上に (ijou ni): more than, no less than
+    34  いきなり (ikinari): suddenly, all of a sudden
+    35  いわゆる (iwayuru): so-called, so to speak
+    36  上 (jou): from the standpoint of
+    37  か～ないかのうちに (ka~nai ka no uchi ni): right after, as soon as
+    38  かえって (kaette): on the contrary, rather, surprisingly
+    39  かいがある(kai ga aru): it’s worth one’s effort to do something
+    40  か何か (ka nanika): or something
+    41  かねない (kanenai): might happen, might do something
+    42  かねる (kaneru): unable to do something
+    43  かのよう (ka no you): as if, just like
+    44  から言うと (kara iu to): in terms of, from the point of view of
+    45  からこそ (kara koso): precisely because
+    46  から見ると (kara miru to): from the point of view of, by the look of
+    47  からには (kara niwa): now that, since, so long as
+    48  からして (kara shite): judging from, based on
+    49  からすると / からすれば (kara suru to/kara sureba): judging from, considering
+    50  からといって (kara to itte): just because
+    51  かと思ったら / かと思うと (ka to omottara/ka to omou to): then again, just when, no sooner than
+    52  限り (kagiri): as long as, while… is the case
+    53  気 (ki): feel like
+    54  っこない (kkonai): no chance of, … is definitely not possible
+    55  ことだから (koto dakara): it is exactly because
+    56  ことから (koto kara): from the fact that
+    57  ことなく (koto naku): without doing something even once
+    58  ことになっている (koto ni natte iru): to be expected to, to be scheduled to
+    59  ことにはならない (koto niwa naranai): just because… doesn’t mean…
+    60  ことは～が (koto wa~ga): although, but
+    61  まい (mai): won’t, intend not to
+    62  まったく～ない (mattaku~nai): not~at all
+    63  も～ば～も (mo~ba~mo): …and…
+    64  もかまわず (mo kamawazu): without worrying about
+    65  ものだから (mono dakara): because, the reason is
+    66  ものではない (mono dewa nai): shouldn’t do something, it’s impossible to do something
+    67  ものがある (mono ga aru): [sentence-ending expression of strong judgement]
+    68  ものか (mono ka): as if
+    69  ものなら (mono nara): if one can do something
+    70  ものの (mono no): but, although
+    71  もっとも (motto mo): but then, although
+    72  もう少しで (mou sukoshi de): almost, nearly
+    73  むしろ (mushiro): rather, instead
+    74  んだって (ndatte): I heard that
+    75  中を (naka o): in, on
+    76  なお (nao): furthermore, still, yet [used to add more information to the sentence]
+    77  ないではいられない (nai dewa irarenai): can’t help but feel, can’t help but do
+    78  ないことには～ない (nai koto niwa~nai): unless you do something
+    79  なくはない (naku wa nai): it’s not that…, can, may be
+    80  なにも～ない (nani mo~nai): no need to
+    81  ねばならない (neba naranai): have to, must
+    82  にあたり (ni atari): at the time, on the occasion of
+    83  に反して (ni han shite): against, contrary to
+    84  にほかならない (ni hoka naranai): nothing but, none other than
+    85  に限って (ni kagitte): only, particularly when
+    86  に限らず (ni kagirazu): not just, not only… but also
+    87  に限る (ni kagiru): nothing better than, there’s nothing like
+    88  にかかわる (ni kakawaru): to relate to, to have to do with
+    89  にかかわらず (ni kakawarazu): regardless of
+    90  に決まっている (ni kimatte iru): I’m sure that…
+    91  に越したことはない (ni koshita koto wa nai): it’s best that, there’s nothing better than
+    92  に応えて (ni kotaete): in response to
+    93  に加えて (ni kuwaete): in addition to
+    94  に基づいて (ni motozuite): based on
+    95  にもかかわらず (nimo kakawarazu): despite, in spite of, although
+    96  に向かって (ni mukatte): towards, to face, to head to
+    97  に応じて (ni oujite): depending on, in accordance with
+    98  に際して (ni sai shite): on the occasion of, at the time of
+    99  に先立ち (ni sakidachi): before, prior to
+   100  にしろ / にせよ (ni shiro/ni seyo): though, even if, whether… or
+   101  にしろ～にしろ (ni shiro~ni shiro): whether… or
+   102  に従って (ni shitagatte): as, therefore
+   103  にしたら (ni shitara): from the point of view of
+   104  にしても～にしても (ni shite mo~ni shite mo): regardless of whether
+   105  に相違ない (ni soui nai): without a doubt, certain, sure
+   106  に沿って (ni sotte): along with, in accordance with
+   107  に過ぎない (ni suginai): no more than, just, merely
+   108  にて (nite): in, at
+   109  に伴って (ni tomonatte): as, due to
+   110  につけ (ni tsuke): both… and…, every time something happens
+   111  につき (ni tsuki): due to, because, per, each
+   112  には (niwa): in order to, for
+   113  にわたって (ni watatte): throughout, over (a period of time)
+   114  のももっともだ (no mo mottomo da): no wonder, … is only natural
+   115  のも当然だ (no mo touzen da): it’s only natural that, no wonder
+   116  のもとで (no moto de): under
+   117  のみならず (nominarazu): not only, besides, as well
+   118  抜きで/抜きにして (nuki de/nuki ni shite): leaving out, cutting out
+   119  抜く (nuku): to do something to the end
+   120  お～願う (o~negau): could you please
+   121  を～として (o~to shite): as
+   122  をこめて (o komete): filled with
+   123  をきっかけに (o kikkake ni): with… as a start, as a result of
+   124  を契機に (o keiki ni): as a good opportunity to, as a result of
+   125  をめぐって (o megutte): concerning, in regard to
+   126  をもとに (o moto ni): based on, from
+   127  を除いて (o nozoite): except, with the exception of
+   128  を問わず (o towazu): regardless of
+   129  を通じて/ を通して (o tsuujite/o tooshite): via, through
+   130  おまけに (omake ni): to make matters worse
+   131  恐れがある (osore ga aru): there are fears that
+   132  ろくに～ない (roku ni~nai): not doing something properly
+   133  際に (sai ni): at the time, in case of
+   134  幸い (saiwai): luckily, fortunately
+   135  さらに (sara ni): furthermore, again, more and more
+   136  せいぜい (seizei): at the most, at best
+   137  せめて (semete): at least, at most
+   138  次第 (shidai): as soon as
+   139  次第だ/ 次第で (shidai da/shidai de): depending on, so
+   140  しかも (shikamo): moreover, furthermore
+   141  したがって (shitagatte): therefore, accordingly
+   142  その上 (sono ue): besides, in addition, furthermore
+   143  それなのに (sore na noni): and yet, despite this
+   144  それなら (sore nara): then, if that’s the case
+   145  それにしても (sore ni shite mo): nevertheless, even so
+   146  それとも (sore tomo): or, or else
+   147  そういえば (sou ieba): come to think of it
+   148  そうにない (sou ni nai): extremely unlikely to, showing no signs of
+   149  そうすると (sou suru to): having done that
+   150  少しも～ない (sukoshi mo~nai): not one bit, not even a little
+   151  すなわち (sunawachi): in other words
+   152  たあげく (ta ageku): to end up, finally
+   153  直ちに (tadachi ni): at once, immediately
+   154  たまえ (tamae): [order somebody to do something]
+   155  た末 / の末 (ta sue/no sue): as a conclusion of
+   156  たって (tatte): even if, even though, no matter how
+   157  てばかりはいられない (te bakari wa irarenai): can’t keep doing something
+   158  てでも (te demo): even if one has to, by all means
+   159  て以来 (te irai): since
+   160  ていては (te ite wa): if one keeps doing something
+   161  てからでないと (te kara denai to): unless, until
+   162  てこそ (te koso): now that, since
+   163  手前 (temae): before, in front of, from one’s standpoint
+   164  てならない (te naranai): very, extremely
+   165  てしょうがない (te shou ga nai): very, extremely
+   166  てたまらない (te tamaranai): very, extremely, can’t help but do
+   167  て当然だ (te touzen da): natural, as a matter of course
+   168  ては (tewa): if, since, one after another
+   169  てはいられない (tewa irarenai): can’t afford to, unable to
+   170  てはならない (tewa naranai): must not, cannot, should not
+   171  と同時に (to douji ni): at the same time as
+   172  というふうに (to iu fuu ni): in such a way that
+   173  ということは (to iu koto wa): that is to say
+   174  というものだ (to iu mono da): something like…, something called…
+   175  というものでもない (to iu mono demo nai): there is no guarantee that…, not necessarily
+   176  といった (to itta): such… as
+   177  とか (toka): I heard that…
+   178  と考えられる (to kangaerareru): one can think that…
+   179  ところだった (tokoro datta): was just about to do something
+   180  ところに/ところへ (tokoro ni/tokoro e): at the time
+   181  ところを見ると (tokoro o miru to): judging from, seeing that
+   182  とっくに (tokku ni): already, long ago
+   183  とも (tomo): even if, no matter
+   184  としても (to shite mo): assuming, even if
+   185  としては (toshite wa): as for
+   186  つもりで (tsumori de): with the intention of doing
+   187  つつ (tsutsu): while, although
+   188  つつある (tsutsu aru): to be doing
+   189  上で (ue de): after
+   190  上に (ue ni): as well, besides, in addition to
+   191  上は (ue wa): now that, since
+   192  は別として (wa betsu to shite): aside from
+   193  はもとより (wa moto yori): also, let alone
+   194  はともかく (wa tomokaku): whether or not
+   195  わずかに (wazuka ni): slightly
+   196  やがて (yagate): soon, before long, eventually
+   197  やら～やら (yara~yara): such things as
+   198  よりほかない (yori hoka nai): to have no choice but
+   199  ようでは (you dewa): if
+   200  ようがない/ようもない (you ga nai/you mo nai): there’s no way to, it’s impossible to
+   201  要するに (you suru ni): the point is
+   202  ざるを得ない (zaru o enai): can’t help doing, have no choice but
+   203  ずに済む (zu ni sumu): get by without doing something
