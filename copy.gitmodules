@@ -1,9 +1,9 @@
 [submodule "ufc"]
 	path = ufc
 	url = https://github.com/AkimJemi/ufc.git
-[submodule "linux"]
-	path = linux
-	url = https://github.com/AkimJemi/linux.git
 [submodule "laptop_repository"]
 	path = laptop_repository
 	url = https://github.com/AkimJemi/laptop_repository.git
+[submodule "linux"]
+	path = git_practice
+	url = https://github.com/AkimJemi/linux.git
